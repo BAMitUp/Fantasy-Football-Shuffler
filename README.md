@@ -12,6 +12,7 @@ Fantasy Football Shuffler is a Python-based application used to shuffle a list o
 $ cd working-directory
 $ git clone https://github.com/BAMitUp/Fantasy-Football-Shuffler.git
 $ cd Fantasy-Football-Shuffler
+$ (if you have virtualenv installed: source ENV/bin/activate)
 $ pip install -r requirements.txt
 $ python app.py
 ```
